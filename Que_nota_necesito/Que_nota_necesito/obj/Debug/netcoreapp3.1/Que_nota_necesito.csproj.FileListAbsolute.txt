@@ -1,0 +1,11 @@
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\bin\Debug\netcoreapp3.1\Que_nota_necesito.exe
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\bin\Debug\netcoreapp3.1\Que_nota_necesito.deps.json
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\bin\Debug\netcoreapp3.1\Que_nota_necesito.runtimeconfig.json
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\bin\Debug\netcoreapp3.1\Que_nota_necesito.runtimeconfig.dev.json
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\bin\Debug\netcoreapp3.1\Que_nota_necesito.dll
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\bin\Debug\netcoreapp3.1\Que_nota_necesito.pdb
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\obj\Debug\netcoreapp3.1\Que_nota_necesito.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\obj\Debug\netcoreapp3.1\Que_nota_necesito.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\obj\Debug\netcoreapp3.1\Que_nota_necesito.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\obj\Debug\netcoreapp3.1\Que_nota_necesito.dll
+C:\Users\SISTEMAS\source\repos\Que_nota_necesito\Que_nota_necesito\obj\Debug\netcoreapp3.1\Que_nota_necesito.pdb
